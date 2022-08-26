@@ -3,17 +3,20 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="icon" href="./favicon.ico">      
+        <link rel="icon" href="./img/favicon.ico">      
         <title>Tyler Richards</title>
         <script src="https://cdn.tailwindcss.com"></script>
     </head>
     <body class="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
         <div class="w-full max-w-xs mx-auto mt-10 sm:max-w-sm md:max-w-md">
-          <div class="bg-white shadow-md rounded-xl px-8 pb-8 mt-64 mb-4">
-            <img src="https://pbs.twimg.com/profile_images/1495820498323787777/eNFwqk21_400x400.jpg" class="w-40 max-w-xs mx-auto rounded-full sm:max-w-sm md:max-w-md -m-16 relative -top-20 border-8 border-white">
-            <h1 class="text-3xl font-bold text-center mb-4">Tyler Richards</h1>
+          <div class="bg-white shadow-md rounded-xl px-8 mt-64 mb-4">
+            <div class="pb-4">
+            <img src="./img/me.jpg" class="w-40 max-w-xs mx-auto rounded-full sm:max-w-sm md:max-w-md -m-16 relative -top-20 border-8 border-white">
+            <h1 class="text-3xl font-bold mb-2">Tyler Richards</h1>
+            <h2 class="text-gray-600 text-md">📅 <span class="mr-2">Full Stack Engineer</span>🌎 <span>Atlanta, GA</span></h2>
+            <p class="mb-4 mt-4">Hi! I write code for work and sometimes for fun. In my free time I like reading, drinking coffee, and playing video games</p>
             <div class="mb-2">
-                <h2 class="text-center text-gray-600 text-lg">My Links</h2>
+                <h2 class="text-gray-600 text-xl">My Links</h2>
                 <hr class="m-4">
                 <ul class="list-inside">
                     <li class="m-4 text-center">
@@ -28,9 +31,17 @@
                     <li class="m-4 text-center">
                         📢 <a href="https://www.linkedin.com/in/stackedqueries/" class="text-gray-600 underline">LinkedIn</a>
                     </li>
+                    <li class="m-4 text-center">
+                        ✉ <a href="mailto:tyler@tyler-richards.com" class="text-gray-600 underline">Email me!</a>
+                    </li>
                 </ul>
             </div>
         </div>
+        <div class="text-center">
+            <a href="https://github.com/StackedQueries/StackedQueries.github.io" class="text-center text-xs text-gray-400 pb-2 underline">Make your own page!</a>
         </div>
-    </body>
+        </div>
+        </div>
+        <script type="module" src="./importer.js"></script>
+    </body>    
 </html>
