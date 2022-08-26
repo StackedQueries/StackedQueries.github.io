@@ -1,0 +1,35 @@
+{
+    "title": "Tyler Richards' Links",
+    "name": "Tyler Richards",
+    "job": "Full Stack Engineer",
+    "location": "Atlanta, GA",
+    "bio": "Hi! I write code for work and sometimes for fun. In my free time I like reading, drinking coffee, and playing video games",
+    "links": [
+        {
+            "emoji": "👨‍💻",
+            "link": "https://github.com/StackedQueries",
+            "text": "Github"
+        },
+        {
+            "emoji": "📰",
+            "link": "https://www.fs.engineer/",
+            "text": "Blog"
+        },
+        {
+            "emoji": "📢",
+            "link": "https://www.linkedin.com/in/stackedqueries/",
+            "text": "LinkedIn"
+        },
+        {
+            "emoji": "🐥",
+            "link": "https://twitter.com/StackedQueries",
+            "text": "Twitter"
+        },
+
+        {
+            "emoji": "✉",
+            "link": "mailto:tyler@tyler-richards.com",
+            "text": "Email Me!"
+        }
+    ]
+}
