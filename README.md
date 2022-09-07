@@ -1,7 +1,7 @@
 
 # Simple Personal Github Page
 
-This is a simple github page that anyone can use to make their own page! A walk through guide can be view over on [my blog](https://fs.engineer)
+This is a simple github page that anyone can use to make their own page! A walk through guide can be viewed over on [my blog](https://fs.engineer)
 
 
 
