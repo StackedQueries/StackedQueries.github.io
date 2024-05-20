@@ -3,8 +3,13 @@
     "name": "Tyler Richards",
     "job": "Full Stack Engineer",
     "location": "Atlanta, GA",
-    "bio": "Hi! I write code for work and sometimes for fun. In my free time I like reading, drinking coffee, and going to car meets",
+    "bio": "Hi! I write code for work and sometimes for fun. In my free time, I like reading, drinking coffee, and going to car meets",
     "links": [
+        {
+            "emoji": "🤖",
+            "link": "https:/www.gotdetected.com/",
+            "text": "Got Detected"
+        },
         {
             "emoji": "📷",
             "link": "https://www.instagram.com/stackedqueries/",
